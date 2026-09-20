@@ -1,0 +1,5 @@
+langchain
+langchain-typesafe
+langchain-openai
+python-dotenv
+scikit-learn
