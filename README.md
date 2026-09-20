@@ -122,7 +122,8 @@ The important constraint: **the questions do not see each other.** `severity` ha
 Note also that `Noul` instructions are written as a **statement**, not a question — "The customer is asking for money back." rather than "Is the customer asking for money back?" The model is scoring how true an assertion is.
 
 Example 
-![Uploading image.png…]()
+<img width="974" height="366" alt="image" src="https://github.com/user-attachments/assets/fbc8d87a-c4aa-4871-8185-74f6c6ec95dd" />
+
 
 
 ---
