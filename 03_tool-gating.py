@@ -1,5 +1,5 @@
 """
-04_tool_gating.py — Jev in the agent loop: route the model, gate the tool.
+03_tool-gating.py — Jev in the agent loop: route the model, gate the tool.
 """
 from dotenv import load_dotenv
 load_dotenv()
