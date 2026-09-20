@@ -98,6 +98,8 @@ The JSON parse block around the OpenAI response has no counterpart on the Jev si
 Output tokens are where the cost separates. Jev charges nothing for them.
 
 Wall-clock timings include network round-trip to whichever region each provider terminates in, so some of the gap is geography rather than architecture. Run it a few times across the day before quoting a number.
+Example 
+<img width="1491" height="607" alt="image" src="https://github.com/user-attachments/assets/9ed6c3b6-1901-4b25-8143-f97f187b6854" />
 
 ---
 
