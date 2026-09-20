@@ -22,7 +22,7 @@ What it cannot do: chat, generate text, write code, or run an agent loop. It dec
 Requires Python 3.10+.
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ignitewala/system-one.git
 cd system-one
 
 python3 -m venv .venv
