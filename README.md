@@ -144,3 +144,7 @@ Worth checking in the output: whether `DROP TABLE claims;` scores meaningfully a
 **3. The same routing as middleware.** `ModelRouterMiddleware` wired into a real agent, with a small callback handler reporting which model actually served each call. Part 1 predicts, part 3 confirms. If they ever disagree, that disagreement is a real finding.
 
 Parts 1 and 2 need only a TypeSafe key. Part 3 also calls OpenAI.
+
+Example -
+<img width="953" height="310" alt="image" src="https://github.com/user-attachments/assets/e05ff88c-586d-4501-a407-28da949967de" />
+
